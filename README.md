@@ -1,6 +1,6 @@
 ### PyUninstallX-project-v2
-##new version 🥳
+new version 🥳
 
-#Key features
+Key features
 
 This Version is performed more by 32% than Version v1
