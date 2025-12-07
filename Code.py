@@ -31,7 +31,7 @@ import requests
 import time
 
 
-VT_API_KEY = "bc5a70cedd5cd23448b561b554b1909a1458c98f462d14979fb7b96915ce58f2" # Hardcoded VirusTotal API Key
+VT_API_KEY = "ADD YOUR API"
 
 # === Data Classes ===
 @dataclass
