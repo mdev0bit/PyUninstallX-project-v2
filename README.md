@@ -1,6 +1,4 @@
-:
-
-🛡️ PyUninstallX-Project v2 — Next-Gen Virus Detection & Performance Upgrade
+##🛡️ PyUninstallX-Project v2 — Next-Gen Virus Detection & Performance Upgrade
 
 PyUninstallX-Project v2 marks a decisive step forward in the evolution of the tool, delivering a much more powerful and intelligent virus-detection engine. This version introduces deep optimizations that make threat scanning ⚡ 32% faster than v1, allowing the system to analyze files, processes, and registry entries with noticeably greater speed and precision. The new detection core has been fine-tuned to identify suspicious patterns more accurately, reduce false positives, and respond more effectively to real threats.
 
