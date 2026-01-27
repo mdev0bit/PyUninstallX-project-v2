@@ -33,6 +33,7 @@ import traceback
 
 VT_API_KEY = "ADD_YOUR_API" # VirusTotal API Key
 
+
 # === Data Classes ===
 @dataclass
 class ProgramInfo:
